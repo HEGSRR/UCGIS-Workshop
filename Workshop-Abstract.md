@@ -2,16 +2,17 @@
 
 ## Practicing and Teaching Reproducibility and Replicability in the Human-Environment and Geographical Sciences
 
-Reproductions and replications (R&R) are needed in the human-environment and geographical sciences (HEGS) for the same reasons they are needed in other STEM fields.
-Failures to independently reproduce the results of published studies undermine credibility and ability to inform public policy, while acceptance of generalizable theory requires verification of theorized relationships across multiple independent studies.
-The goal of reproducing a published study is to verify its findings and validity by repeating the study with identical data and methods.
+Reproductions and replications (R&R) are needed in the human-environment and geographical sciences (HEGS) to evaluate the validity of findings and generalizability of theories across geographic contexts.
+Failures to independently reproduce the results of published studies undermine validity and ability to inform public policy.
+Meanwhile, the development of generalizable theory requires verification of theorized relationships across multiple independent studies.
+The goal of reproducing a study is to verify its findings and assess its validity by repeating the study with identical data and methods.
 The goal of replicating a study is to test its reliability and generalizability by collecting new data while repeating the same methods.
-Reproductions and replications by independent researchers provide the evidence necessary to evaluate the credibility of findings and generalizability of theories across geographic contexts.
-Despite a flurry of recent publications on the topic of reproducibility in HEGS, most research publications are not reproducible and there is no precedent for publishing reproduction or replication studies.
+Despite a flurry of recent publications on the topic of reproducibility in HEGS, most research publications are not reproducible and HEGS lacks a precedent for publishing reproduction or replication studies.
 
-In this workshop, we share experience and findings from the first year of a research project to advance the production of theory in the geographical sciences by (1) identifying barriers to R&R in HEGS, (2) assessing the credibility of recent impactful studies, and (3) establishing a project-based educational model for R&R in HEGS. Thus far, we have (1) developed a framework for reproducible research practices in HEGS, (2) trained undergraduate and graduate students enrolled in GIScience courses in reproducible research practices, and (3) reproduced or replicated seven published studies with teams of undergraduate and graduate students.
-
-The workshop integrates discussions about integrating R&R in HEGS research and teaching with introductory technical training in our pedagogical approach and our use of version control, metadata, open source GIS, computational notebooks, and research compendia as tools for reproducible research and teaching.
+We will integrate discussions about integrating R&R in HEGS research and teaching with introductory technical training in tools for reproducible research and teaching.
+Discussions and techniques will use the case of a reproduction of a geographic COVID-19 study that was collaboratively developed with students using a new GitHub template repository for reproducible HEGS research, Open Science Framework (OSF) registration, and open source R Markdown computational notebooks.  
+This workshop is based on an ongoing research project to advance the production of theory in the geographical sciences by (1) identifying barriers to R&R in HEGS, (2) assessing the credibility of recent impactful studies, and (3) establishing a project-based educational model for R&R in HEGS.
+To date, we have (1) developed a framework for reproducible research practices in HEGS, (2) trained undergraduate and graduate students enrolled in GIScience courses in reproducible research practices, and (3) reproduced or replicated seven published studies with teams of undergraduate and graduate students.
 
 **Tags:** Reproducibility, Replicability, Pedagogy
 
