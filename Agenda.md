@@ -4,7 +4,7 @@ Practicing and Teaching Reproducibility and Replicability in the Human-Environme
 
 ## Prior to Workshop
 
-- 20 mins: Read Chakraborty, J. 2021. Social inequities in the distribution of COVID-19: An intra-categorical analysis of people with disabilities in the U.S. Disability and Health Journal 14 (1):101007. https://doi.org/10.1016/j.dhjo.2020.101007. (chose this because it's so short, and can still illustrate so many of our findings. Just five pages including references)
+- Read Chakraborty, J. 2021. Social inequities in the distribution of COVID-19: An intra-categorical analysis of people with disabilities in the U.S. Disability and Health Journal 14 (1):101007. https://doi.org/10.1016/j.dhjo.2020.101007. (chose this because it's so short, and can still illustrate so many of our findings. Just five pages including references)
 - Sign up for [GitHub](https://github.com/) We suggest using your university or college account
 - Install [GitHub Desktop](https://desktop.github.com/)
 - Install the latest version of [R](https://cran.rstudio.com/)
@@ -14,20 +14,53 @@ Practicing and Teaching Reproducibility and Replicability in the Human-Environme
 
 ## First Hour
 
-- 10 mins: Introductions (facilitators & participants)
-- 15 mins: Reproducibility & Replicability in Human-Environment and Geographical Sciences
-  - Powerpoint presentation of key concepts and overview of our project and the workflow / set of techniques we are using for reproducibility
+- 5 mins Introductions:
+  - Peter Kedron
+  - Joe Holler
+  - Emily Zhou
+  - HEGSRR NSF Project (GitHub, OSF)
+  - Repository for this workshop
+  - GSI Covid Fellows @ University of Illinois Urbana-Champaign
+  - Agenda
+  - Participant Introductions (Name, Pronoun, University)
+- 20 mins: Presentation: Reproducibility & Replicability in Human-Environment and Geographical Sciences
+  - Validity, public trust
+  - Reproducibility
+  - Replicability
+  - Reanalysis
+  - Open Science
+  - Open Source GIS toolkit: Git, Atom, R, Python, SQL  
+  - Annals Special Issue contributions
+  - Konkol, Nust et al. computational reproducibility
+  - Phases of doing a reproduction study (with students)
+    - Close reading of methodology
+    - Workflow plan
+    - Pre-analysis plan
+    - Metadata research and documentation
+    - Implementation in R or Python
+    - Report -- to GitHub Pages
 - 5 mins: Discussion
+  - Have you used reproductions in your own research?
+  - Have you incorporated reproductions in your teaching or training?
+  - Barriers / Concerns?
+  - Benefits / Motivations?
 - 25 mins: Pre-analysis plan the reproduction study
-  - 5 min demo: OSF projects & registrations (just demo-- participants not required to log into OSF)
-  - 15 min guided analysis: Workflow diagram and Pre-analysis plan (with mostly completed handouts)
-- 10 mins: Discussion / Break
-- During Break, help install software
+  - 5 min activity introduction
+    - highlighting paper
+    - focusing on inputs, outputs and processes
+    - workflow diagram
+    - pre-analysis plan
+  - 20 min guided analysis: Workflow diagram and Pre-analysis plan (with mostly completed handouts)
+- 5 mins: Discussion / Break
+  - During Break, help install software
 
 ## Second Hour
 
 - 10 mins: Break
 - 40 mins: Git and GitHub for Education and Research Collaboration
+  - GitHub for Education resources
+  - Each repository is an assignment; GitHub pages
+  - Research project compendium --> publication --> student reproduction assignment --> reanalysis / replication --> new study
   - HEGSRR template research compendium
   - version control concepts (fork & clone `RPr-Chakraborty` repository)
   - Atom text editor
