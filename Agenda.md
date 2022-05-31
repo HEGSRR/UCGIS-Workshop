@@ -4,8 +4,13 @@ Practicing and Teaching Reproducibility and Replicability in the Human-Environme
 
 ## Prior to Workshop
 
-- 10 mins: Pre-survey
 - 20 mins: Read Chakraborty, J. 2021. Social inequities in the distribution of COVID-19: An intra-categorical analysis of people with disabilities in the U.S. Disability and Health Journal 14 (1):101007. https://doi.org/10.1016/j.dhjo.2020.101007. (chose this because it's so short, and can still illustrate so many of our findings. Just five pages including references)
+- Sign up for [GitHub](https://github.com/) We suggest using your university or college account
+- Install [GitHub Desktop](https://desktop.github.com/)
+- Install the latest version of [R](https://cran.rstudio.com/)
+- Install the latest version of [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
+- Sign up for a [Census API Key](https://api.census.gov/data/key_signup.html)
+- Install [Atom](https://atom.io/)
 
 ## First Hour
 
@@ -14,10 +19,10 @@ Practicing and Teaching Reproducibility and Replicability in the Human-Environme
   - Powerpoint presentation of key concepts and overview of our project and the workflow / set of techniques we are using for reproducibility
 - 5 mins: Discussion
 - 25 mins: Pre-analysis plan the reproduction study
-  - 5 min demo: OSF projects & registrations
+  - 5 min demo: OSF projects & registrations (just demo-- participants not required to log into OSF)
   - 15 min guided analysis: Workflow diagram and Pre-analysis plan (with mostly completed handouts)
-  - 5 min demo: Metadata with USGS Metadata Wizard
-- 5 mins: Discussion
+- 10 mins: Discussion / Break
+- During Break, help install software
 
 ## Second Hour
 
@@ -45,4 +50,3 @@ Practicing and Teaching Reproducibility and Replicability in the Human-Environme
   - was the reproduction successful?
   - what have you learned from the reproduction study?
   - what is a Reanalysis
-- 10 mins: Post-survey
