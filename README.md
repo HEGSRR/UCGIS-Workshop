@@ -11,4 +11,4 @@ Assistants: Emily Zhou
 
 - [Abstract](Abstract.md)
 - [Agenda](Agenda.md)
-- This content is provided with an open source [BSD License](LICENSE)
+- This content is provided with an open source [BSD 3-Clause License](LICENSE).
