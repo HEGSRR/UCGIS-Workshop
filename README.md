@@ -2,8 +2,9 @@
 
 Workshop for [UCGIS](https://www.ucgis.org/) 2022 Symposium in Syracuse NY
 June 6, 2022
-
-Proposal and materials for UCGIS 2022 Workshop
+Presenters: Joseph Holler, Peter Kedron
+Assistants: Emily Zhou
+[Abstract](Abstract.md)
 
 
 ## Activity Log
