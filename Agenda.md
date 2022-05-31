@@ -4,8 +4,9 @@ Practicing and Teaching Reproducibility and Replicability in the Human-Environme
 
 ## Prior to Workshop
 
-- Read Chakraborty, J. 2021. Social inequities in the distribution of COVID-19: An intra-categorical analysis of people with disabilities in the U.S. Disability and Health Journal 14 (1):101007. https://doi.org/10.1016/j.dhjo.2020.101007. (chose this because it's so short, and can still illustrate so many of our findings. Just five pages including references)
-- Sign up for [GitHub](https://github.com/) We suggest using your university or college account
+- Read Chakraborty, J. 2021. Social inequities in the distribution of COVID-19: An intra-categorical analysis of people with disabilities in the U.S. Disability and Health Journal 14 (1):101007. DOI:[doi.org/10.1016/j.dhjo.2020.101007](https://doi.org/10.1016/j.dhjo.2020.101007)
+- Sign up for a free [GitHub](https://github.com/) account.
+  - We suggest using an academic email account for GitHub to facilitate access to [GitHub Education resources and benefits](https://education.github.com/teachers)
 - Install [GitHub Desktop](https://desktop.github.com/)
 - Install the latest version of [R](https://cran.rstudio.com/)
 - Install the latest version of [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
@@ -32,6 +33,7 @@ Practicing and Teaching Reproducibility and Replicability in the Human-Environme
   - Open Source GIS toolkit: Git, Atom, R, Python, SQL  
   - Annals Special Issue contributions
   - Konkol, Nust et al. computational reproducibility
+  - Our major findings & outputs so far
   - Phases of doing a reproduction study (with students)
     - Close reading of methodology
     - Workflow plan

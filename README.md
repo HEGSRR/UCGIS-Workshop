@@ -7,4 +7,7 @@ June 6, 2022
 Presenters: Joseph Holler, Peter Kedron
 Assistants: Emily Zhou
 
-[Abstract](Abstract.md)
+## Resources
+
+- [Abstract](Abstract.md)
+- [Agenda](Agenda)
