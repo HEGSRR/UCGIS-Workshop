@@ -4,16 +4,20 @@ Practicing and Teaching Reproducibility and Replicability in the Human-Environme
 
 ## Prior to Workshop
 
-- Read Chakraborty, J. 2021. Social inequities in the distribution of COVID-19: An intra-categorical analysis of people with disabilities in the U.S. Disability and Health Journal 14 (1):101007. DOI:[doi.org/10.1016/j.dhjo.2020.101007](https://doi.org/10.1016/j.dhjo.2020.101007)
-- Sign up for a free [GitHub](https://github.com/) account.
-  - We suggest using an academic email account for GitHub to facilitate access to [GitHub Education resources and benefits](https://education.github.com/teachers)
-- Install [GitHub Desktop](https://desktop.github.com/)
-- Install the latest version of [R](https://cran.rstudio.com/)
-- Install the latest version of [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
-- Sign up for a [Census API Key](https://api.census.gov/data/key_signup.html)
-- Install [Atom](https://atom.io/)
+In order to maximize our time together, please prepare the following accounts and free software on
 
-## First Hour
+- [ ] Sign up for a [Census API Key](https://api.census.gov/data/key_signup.html). Please save this code for accessing U.S. Census and American Community Survey data with computer scripts.
+- [ ] Sign up for a free [GitHub](https://github.com/) account.
+  - We suggest using an academic email account for GitHub to facilitate access to [GitHub Education resources and benefits](https://education.github.com/teachers)
+- [ ] Install [GitHub Desktop](https://desktop.github.com/), a free application to facilitate downloading and updating Git repositories on your local computer.
+- [ ] Install the latest version of [R](https://cran.rstudio.com/), an open source computer language for scientific computation.
+- [ ] Install the latest version of [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
+
+- [ ] Install [Atom](https://atom.io/), a text editor with GitHub integration and support for most coding languages
+- Please read Chakraborty, J. 2021. Social inequities in the distribution of COVID-19: An intra-categorical analysis of people with disabilities in the U.S. Disability and Health Journal 14 (1):101007. DOI:[doi.org/10.1016/j.dhjo.2020.101007](https://doi.org/10.1016/j.dhjo.2020.101007)
+
+
+## 1:00 pm
 
 - 10 mins Introductions:
   - Peter Kedron
@@ -56,7 +60,7 @@ Practicing and Teaching Reproducibility and Replicability in the Human-Environme
 - 5 mins: Discussion / Break
   - During Break, help install software
 
-## Second Hour
+## 2:00 pm
 
 - 10 mins: Break
 - 40 mins: Git and GitHub for Education and Research Collaboration
@@ -75,7 +79,7 @@ Practicing and Teaching Reproducibility and Replicability in the Human-Environme
   - Illustrate & discuss usage in teaching (lab development & deployment, collaborative work, student self-publishing)
 - 10 mins: Discussion
 
-## Third Hour
+## 3:00 pm
 
 - 10 mins: Break
 - 30 mins: Computational notebooks: Illustration with RMarkdown
@@ -85,3 +89,7 @@ Practicing and Teaching Reproducibility and Replicability in the Human-Environme
   - was the reproduction successful?
   - what have you learned from the reproduction study?
   - what is a Reanalysis
+
+## 4:00 pm
+
+-
