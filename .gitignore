@@ -13,7 +13,9 @@ data/scratch/**
 # Ignore Microsoft Word system files
 *.tmp
 ~$*.doc*
+~$*.pptx*
 Backup of *.doc*
+
 
 # Ignore common R files
 .Rproj.user

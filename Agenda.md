@@ -15,7 +15,7 @@ Practicing and Teaching Reproducibility and Replicability in the Human-Environme
 
 ## First Hour
 
-- 5 mins Introductions:
+- 10 mins Introductions:
   - Peter Kedron
   - Joe Holler
   - Emily Zhou
