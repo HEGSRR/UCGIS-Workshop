@@ -88,7 +88,7 @@ In order to maximize our time together, please prepare the following accounts an
 
 
 ## Discussion
-- 
+-
 
 
 ## 3:00 pm
@@ -112,7 +112,7 @@ In order to maximize our time together, please prepare the following accounts an
 - Chakraborty Reproduction: https://github.com/HEGSRR/RPr-Chakraborty-2021
 - UCGIS 2022 Workshop: https://github.com/HEGSRR/UCGIS-Workshop
 
-# External Resources
-
-- Data Carpentry Workshops: https://datacarpentry.org/lessons/
--
+## Resources
+- Markdown style guide
+- Data Carprentry Workshops: https://datacarpentry.org/lessons/
+- Course website, R tutorial, cheatsheet
