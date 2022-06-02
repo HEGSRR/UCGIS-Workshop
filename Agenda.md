@@ -17,7 +17,7 @@ In order to maximize our time together, please prepare the following accounts an
 - Please read Chakraborty, J. 2021. Social inequities in the distribution of COVID-19: An intra-categorical analysis of people with disabilities in the U.S. Disability and Health Journal 14 (1):101007. DOI:[doi.org/10.1016/j.dhjo.2020.101007](https://doi.org/10.1016/j.dhjo.2020.101007)
 
 
-## 1:00 pm
+## Introduction
 
 - 10 mins Introductions:
   - Peter Kedron
@@ -50,19 +50,10 @@ In order to maximize our time together, please prepare the following accounts an
   - Have you incorporated reproductions in your teaching or training?
   - Barriers / Concerns?
   - Benefits / Motivations?
-- 25 mins: Pre-analysis plan the reproduction study
-  - 5 min activity introduction
-    - highlighting paper
-    - focusing on inputs, outputs and processes
-    - workflow diagram
-    - pre-analysis plan
-  - 20 min guided analysis: Workflow diagram and Pre-analysis plan (with mostly completed handouts)
-- 5 mins: Discussion / Break
-  - During Break, help install software
 
-## 2:00 pm
+## Git & GitHub for Research & Teaching
+- Break: did you have a chance to sign up for GitHub and install GitHub and Atom?
 
-- 10 mins: Break
 - 40 mins: Git and GitHub for Education and Research Collaboration
   - GitHub for Education resources
   - Each repository is an assignment; GitHub pages
@@ -79,6 +70,27 @@ In order to maximize our time together, please prepare the following accounts an
   - Illustrate & discuss usage in teaching (lab development & deployment, collaborative work, student self-publishing)
 - 10 mins: Discussion
 
+## Preparing a (reproduction) study
+- Break: did you have a chance to read the paper?
+
+- 25 mins: Pre-analysis plan the reproduction study
+  - 5 min activity introduction
+    - highlighting paper
+    - focusing on inputs, outputs and processes
+    - workflow diagram
+    - pre-analysis plan
+  - 20 min guided analysis: Workflow diagram and Pre-analysis plan (with mostly completed handouts)
+- 5 mins: Discussion / Break
+  - During Break, help install software
+
+## RStudio and Computational Notebooks
+- Break: did you have a chance to install R and RStudio? Do you have a Census API?
+
+
+## Discussion
+- 
+
+
 ## 3:00 pm
 
 - 10 mins: Break
@@ -90,6 +102,17 @@ In order to maximize our time together, please prepare the following accounts an
   - what have you learned from the reproduction study?
   - what is a Reanalysis
 
-## 4:00 pm
+# Our Resources
 
+- GIS Fellows Workshop: https://youtu.be/3aLdD907OsQ
+- Open Source GIScience: https://gis4dev.github.io/
+- Using GitHub Pages: https://gis4dev.github.io/2021/09/16/github-pages.html
+- HEGSRR: https://github.com/HEGSRR/
+- HEGSRR Template: https://github.com/HEGSRR/HEGSRR-Template
+- Chakraborty Reproduction: https://github.com/HEGSRR/RPr-Chakraborty-2021
+- UCGIS 2022 Workshop: https://github.com/HEGSRR/UCGIS-Workshop
+
+# External Resources
+
+- Data Carpentry Workshops: https://datacarpentry.org/lessons/
 -
