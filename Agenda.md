@@ -4,7 +4,7 @@ Practicing and Teaching Reproducibility and Replicability in the Human-Environme
 
 ## Prior to Workshop
 
-In order to maximize our time together, please prepare the following accounts and free software on
+In order to maximize our time together, please bring a laptop to the workshop and prepare the following free online accounts and software.
 
 - [ ] Sign up for a [Census API Key](https://api.census.gov/data/key_signup.html). Please save this code for accessing U.S. Census and American Community Survey data with computer scripts.
 - [ ] Sign up for a free [GitHub](https://github.com/) account.
@@ -14,7 +14,7 @@ In order to maximize our time together, please prepare the following accounts an
 - [ ] Install the latest version of [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
 
 - [ ] Install [Atom](https://atom.io/), a text editor with GitHub integration and support for most coding languages
-- Please read Chakraborty, J. 2021. Social inequities in the distribution of COVID-19: An intra-categorical analysis of people with disabilities in the U.S. Disability and Health Journal 14 (1):101007. DOI:[doi.org/10.1016/j.dhjo.2020.101007](https://doi.org/10.1016/j.dhjo.2020.101007)
+- Please read the following paper, for which we will work through a reproduction study: Chakraborty, J. 2021. Social inequities in the distribution of COVID-19: An intra-categorical analysis of people with disabilities in the U.S. Disability and Health Journal 14 (1):101007. DOI:[doi.org/10.1016/j.dhjo.2020.101007](https://doi.org/10.1016/j.dhjo.2020.101007) (attached)
 
 
 ## Introduction
