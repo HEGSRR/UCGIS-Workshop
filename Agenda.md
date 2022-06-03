@@ -2,21 +2,6 @@
 
 Practicing and Teaching Reproducibility and Replicability in the Human-Environment and Geographical Sciences
 
-## Prior to Workshop
-
-In order to maximize our time together, please bring a laptop to the workshop and prepare the following free online accounts and software.
-
-- [ ] Sign up for a [Census API Key](https://api.census.gov/data/key_signup.html). Please save this code for accessing U.S. Census and American Community Survey data with computer scripts.
-- [ ] Sign up for a free [GitHub](https://github.com/) account.
-  - We suggest using an academic email account for GitHub to facilitate access to [GitHub Education resources and benefits](https://education.github.com/teachers)
-- [ ] Install [GitHub Desktop](https://desktop.github.com/), a free application to facilitate downloading and updating Git repositories on your local computer.
-- [ ] Install the latest version of [R](https://cran.rstudio.com/), an open source computer language for scientific computation.
-- [ ] Install the latest version of [RStudio](https://www.rstudio.com/products/rstudio/download/#download)
-
-- [ ] Install [Atom](https://atom.io/), a text editor with GitHub integration and support for most coding languages
-- Please read the following paper, for which we will work through a reproduction study: Chakraborty, J. 2021. Social inequities in the distribution of COVID-19: An intra-categorical analysis of people with disabilities in the U.S. Disability and Health Journal 14 (1):101007. DOI:[doi.org/10.1016/j.dhjo.2020.101007](https://doi.org/10.1016/j.dhjo.2020.101007) (attached)
-
-
 ## Introduction
 
 - 10 mins Introductions:
@@ -51,7 +36,8 @@ In order to maximize our time together, please bring a laptop to the workshop an
   - Barriers / Concerns?
   - Benefits / Motivations?
 
-## Git & GitHub for Research & Teaching
+## Git & GitHub for R&R Scholarship
+
 - Break: did you have a chance to sign up for GitHub and install GitHub and Atom?
 
 - 40 mins: Git and GitHub for Education and Research Collaboration
@@ -68,9 +54,16 @@ In order to maximize our time together, please bring a laptop to the workshop an
   - Demo: add files to private folders & commit them
   - Illustrate & discuss usage in research collaboration (issues, data management plans, intellectual contributions, version tracking)
   - Illustrate & discuss usage in teaching (lab development & deployment, collaborative work, student self-publishing)
-- 10 mins: Discussion
+
+### Discussion
+
+- Do you perceive any barriers or have any misgivings about using GitHub and GitHub pages for your research? For your teaching?
+- Can you imagine any specific ways in which you could adopt version control,
+- Do you have any suggestions for our `HEGSRR-Template`?
+- Let's have a conversation about credit and incentives.
 
 ## Preparing a (reproduction) study
+
 - Break: did you have a chance to read the paper?
 
 - 25 mins: Pre-analysis plan the reproduction study
@@ -83,36 +76,16 @@ In order to maximize our time together, please bring a laptop to the workshop an
 - 5 mins: Discussion / Break
   - During Break, help install software
 
-## RStudio and Computational Notebooks
+## RStudio and Computational Notebooks: The RPr-Chakraborty-2021 Study
+
 - Break: did you have a chance to install R and RStudio? Do you have a Census API?
-
-
-## Discussion
--
-
-
-## 3:00 pm
-
-- 10 mins: Break
 - 30 mins: Computational notebooks: Illustration with RMarkdown
   - work through execution of Chakraborty notebook as an example
   - highlight differences from the original publication, e.g. new figures, different statistics
-- 10 mins: Results and Discussion
-  - was the reproduction successful?
-  - what have you learned from the reproduction study?
-  - what is a Reanalysis
 
-# Our Resources
+### Discussion
 
-- GIS Fellows Workshop: https://youtu.be/3aLdD907OsQ
-- Open Source GIScience: https://gis4dev.github.io/
-- Using GitHub Pages: https://gis4dev.github.io/2021/09/16/github-pages.html
-- HEGSRR: https://github.com/HEGSRR/
-- HEGSRR Template: https://github.com/HEGSRR/HEGSRR-Template
-- Chakraborty Reproduction: https://github.com/HEGSRR/RPr-Chakraborty-2021
-- UCGIS 2022 Workshop: https://github.com/HEGSRR/UCGIS-Workshop
-
-## Resources
-- Markdown style guide
-- Data Carprentry Workshops: https://datacarpentry.org/lessons/
-- Course website, R tutorial, cheatsheet
+- Would you consider the reproduction to be an exact success, an approximate success, or a failure?
+- Have you learned anything about the original study that *you would not have known* without attempting a reproduction study?
+- Given what we have found, do you have any ideas for developing a new study in the form of a *reanalysis*, a *replication*, or an *extension*?
+- Let's return to the question of incentives and evaluation in the context of teaching. Do you have any ideas for assignments to give to students, for the honor code in terms of collaboration or use of others' materials, and for assessment of learning and assigning of grades?
