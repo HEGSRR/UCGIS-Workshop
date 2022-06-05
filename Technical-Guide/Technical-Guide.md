@@ -9,7 +9,7 @@
 
 **2. Copy the three repositories to your personal GitHub account:**
 - Go to the [HEGSRR-Template](https://github.com/HEGSRR/HEGSRR-Template) and click `Use this template`.
-- You may change the `Repository name`, with the prefix of RPr for reproduction analysis and RE for replication analysis.
+- You may change the `Repository name`, with the prefix of `RPr` for reproduction analysis, `RPl` for replication analysis, or `Or` for original research.
 - Add a description to the repository if you like and set the repository to public.
 - Go to the [RPr-Chakraborty-2021](https://github.com/HEGSRR/RPr-Chakraborty-2021) repository and find the `Fork` option on the top right corner. You may leave the repository name as it is.  
 - Go to the [UCGIS-Workshop](https://github.com/HEGSRR/UCGIS-Workshop) and 'fork' this repository as well.
@@ -18,13 +18,14 @@
 - On your GitHub desktop, go to `File` -> `Clone Repository`, where you will see all of the repositories you have access to.
 - Choose the `RPr-Chakraborty-2021` repository and choose the file path on your local computer where you want to save it to and hit `Clone`.
 - Repeat the same process for the other two repositories you just forked.
-
+- *Note*: Although you can also manage GitHub repositories with Atom and RStudio, we have found it convenient to teach students one primary centralized method of managing their repositories.
 
 **4. Manipulating files on GitHub repositories:**
 - Go to the file directory on your local computer where you saved the repositories and see if you can find three folders, one for each cloned repository.
 - On your GitHub desktop app, switch the `Current Repository` to HEGSRR-Template and click `Open in Atom`.
+  - If you have already set up Atom to work with a different text editor, you can also open Atom separately and add the `HEGSRR-Template` folder to the Atom project.
 - Open the file named `readme.md`, make some changes to the file, and save it.
-- Go to `Packages` -> `Markdown Preview` -> `Toggle Preview` or `Toggle Github Style` to preview the file. Note that you might need to click `Toggle Break on Single New Line` before generating the previews. On Windows use the keyboard shortcut `ctrl + shift + m`
+- Go to `Packages` -> `Markdown Preview` -> `Toggle Preview` or `Toggle GitHub Style` to preview the file. Note that you might need to click `Toggle Break on Single New Line` before generating the previews. On Windows use the keyboard shortcut `ctrl + shift + m`
 - Go back to GitHub desktop. A list of changed files and preview of the `diff` or differences should appear. At the bottom-left, provide a summary for the changes you have made and click `Commit to main` and then `Push` the repository.
 - Go back to your own GitHub account page on the web browser and see if you can find the most recent updates you just committed.
 - On the web browser, find the same `readme.md` file and click on the little pencil icon to the right.
@@ -32,13 +33,14 @@
 - Go back to GitHub desktop, and click on `Fetch origin` and then `Pull`.
 
 **5. More on file manipulation:**
-- Open the HEGSRR-Template repository in Atom and go to `data/raw/public`.
+- Open the `HEGSRR-Template` repository in Atom and go to `data/raw/public`.
 - Right click on the public folder -> `New File`.
 - Write a line in the file and save it.
 - Repeat the same process, but create the file in `data/raw/private` folder.
 - Commit and push the changes.
-- Go to the Github page, where you should be able to see the file you created only in the `public` folder but not the `private` folder.
-- Go back to the Github desktop, click on `History` tab right next to `Changes`.
+- Go to the GitHub page, where you should be able to see the file you created only in the `public` folder but not the `private` folder.
+  - This behavior is controlled by the `.gitignore` file in the root directory of the template.
+- Go back to the GitHub desktop, click on `History` tab right next to `Changes`.
 - Right click on the last change -> `Revert Changes in Commit` and `push` the changes.
 - Check the GitHub page and your local computer to confirm that the last change has been reverted.
 

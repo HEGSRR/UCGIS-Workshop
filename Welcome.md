@@ -10,7 +10,7 @@ In order to maximize our time together, please bring a laptop to the workshop an
 - [ ] Sign up for a free [GitHub](https://github.com/) account.
   - We suggest using an academic email account for GitHub to facilitate access to [GitHub Education resources and benefits](https://education.github.com/teachers)
 - [ ] Install [GitHub Desktop](https://desktop.github.com/), a free application to facilitate downloading and updating Git repositories on your local computer.
-- [ ] Install the latest version of [R](https://cran.rstudio.com/), an open source computer language for scientific computation.
+- [ ] Install the latest version of [R](https://cran.rstudio.com/), an open source computer language for scientific computation. As of June 4, 2022, this is version `4.2.0`.
 - [ ] Install the latest (free) version of [RStudio](https://www.rstudio.com/products/rstudio/download/#download), free software to facilitate using R in a friendly graphical user interface.
 
 - [ ] Install [Atom](https://atom.io/), a text editor with GitHub integration and support for most coding languages
