@@ -2,90 +2,133 @@
 
 Practicing and Teaching Reproducibility and Replicability in the Human-Environment and Geographical Sciences
 
+
 ## Introduction
 
-- 10 mins Introductions:
-  - Peter Kedron
-  - Joe Holler
-  - Emily Zhou
-  - HEGSRR NSF Project (GitHub, OSF)
-  - Repository for this workshop
-  - GSI Covid Fellows @ University of Illinois Urbana-Champaign
-  - Agenda
-  - Participant Introductions (Name, Pronoun, University)
-- 20 mins: Presentation: Reproducibility & Replicability in Human-Environment and Geographical Sciences
-  - Validity, public trust
-  - Reproducibility
-  - Replicability
-  - Reanalysis
-  - Open Science
-  - Open Source GIS toolkit: Git, Atom, R, Python, SQL  
-  - Annals Special Issue contributions
-  - Konkol, Nust et al. computational reproducibility
-  - Our major findings & outputs so far
-  - Phases of doing a reproduction study (with students)
-    - Close reading of methodology
-    - Workflow plan
-    - Pre-analysis plan
-    - Metadata research and documentation
-    - Implementation in R or Python
-    - Report -- to GitHub Pages
-- 5 mins: Discussion
-  - Have you used reproductions in your own research?
-  - Have you incorporated reproductions in your teaching or training?
-  - Barriers / Concerns?
-  - Benefits / Motivations?
+- Support
+- Introductions:
+  - Name
+  - Institution
+  - Research or teaching project related to R&R
+- Defining R&R
+- Practicing R&R
+- Teaching R&R
+- Seminar Objectives
+- Research Objectives
+- State of the Research
+- Findings from Reproductions
 
-## Git & GitHub for R&R Scholarship
+## Part I: Overview of R&R in HEGS
 
-- Break: did you have a chance to sign up for GitHub and install GitHub and Atom?
+### Vignette: Spatial Accessibility in Illinois
+- Reproduce studies with Jupyter Notebook on CyberGISX
+- Reproduction and Replication studies by Derrick Burt
+- Reanalysis by Kufre Udoh
+- Reprodution study with the Spring 2021 class and Summer 2021 research assistants
 
-- 40 mins: Git and GitHub for Education and Research Collaboration
-  - GitHub for Education resources
-  - Each repository is an assignment; GitHub pages
-  - Research project compendium --> publication --> student reproduction assignment --> reanalysis / replication --> new study
-  - HEGSRR template research compendium
-  - version control concepts (fork & clone `RPr-Chakraborty` repository)
-  - Atom text editor
-  - Markdown (edit main Readme)
-  - Push changes to GitHub
-  - .gitignore
-  - privacy and large files
-  - Demo: add files to private folders & commit them
-  - Illustrate & discuss usage in research collaboration (issues, data management plans, intellectual contributions, version tracking)
-  - Illustrate & discuss usage in teaching (lab development & deployment, collaborative work, student self-publishing)
+### Reproducibility and Replicability in the Geographical Sciences
+- Sciences
+  - Science under COVID-19
+  - How do we trust science?
+- Spatial autocorrelation and heterogeneity
+- Reproduction for credibility and scientific progress
+- Literature highlights
+- Highlights of R&R in geography
 
-### Discussion
+### Practical Computational Reproducibility
+- Conditions for reproducibility
+- Improving R&R
+- Infrastructure
 
-- Do you perceive any barriers or have any misgivings about using GitHub and GitHub pages for your research? For your teaching?
-- Can you imagine any specific ways in which you could adopt version control,
-- Do you have any suggestions for our `HEGSRR-Template`?
-- Let's have a conversation about credit and incentives.
+### R&R Pedagogy
+- Project-based learning
+- Rethinking the learning goals
+- Open Source GIScience curriculum
+- Vision for R&R in geography
 
-## Preparing a (reproduction) study
+**Discussion session I**
+- What are our individual and collective motivations for trying reproduction studies?
+- Any failures, concerns, and misgiving?
 
-- Break: did you have a chance to read the paper?
+## Part II: Research Compendium in Git & GitHub
 
-- 25 mins: Pre-analysis plan the reproduction study
-  - 5 min activity introduction
-    - highlighting paper
-    - focusing on inputs, outputs and processes
-    - workflow diagram
-    - pre-analysis plan
-  - 20 min guided analysis: Workflow diagram and Pre-analysis plan (with mostly completed handouts)
-- 5 mins: Discussion / Break
-  - During Break, help install software
+### GitHub Overview
+- Challenges
+- Git & GitHub version control
+- GitHub features
+- Tips, Tricks & Limitation
 
-## RStudio and Computational Notebooks: The RPr-Chakraborty-2021 Study
+### Template for R&R Research in HEGS
+- Executable research compendium
+- Repository template for HEGS research
+- Use .gitignore and code to manage data
 
-- Break: did you have a chance to install R and RStudio? Do you have a Census API?
-- 30 mins: Computational notebooks: Illustration with RMarkdown
-  - work through execution of Chakraborty notebook as an example
-  - highlight differences from the original publication, e.g. new figures, different statistics
+### Managing GitHub Repositories
 
-### Discussion
 
-- Would you consider the reproduction to be an exact success, an approximate success, or a failure?
-- Have you learned anything about the original study that *you would not have known* without attempting a reproduction study?
-- Given what we have found, do you have any ideas for developing a new study in the form of a *reanalysis*, a *replication*, or an *extension*?
-- Let's return to the question of incentives and evaluation in the context of teaching. Do you have any ideas for assignments to give to students, for the honor code in terms of collaboration or use of others' materials, and for assessment of learning and assigning of grades?
+**Discussion session II**
+- Are there any specific ways you want to integrate Git version control into your scholarship?
+- Are there specific reasons that you wish you had already adopted Git in the past?
+- Any concerns or misgivings?
+
+
+
+## Part III: Plan and Register a Reproduction / Replication Study
+
+### Pre-analysis Plan Overview
+- Reproduction study worked example
+- Pre-analysis planning & registration
+- OSF pre-analysis plan registration
+- R&R pre-analysis plan
+- Workflow diagram
+- Activity
+
+### The Spatial Scan Statistics
+- SaTScan
+  - SaTScan input
+  - SaTScan analysis
+  - SaTScan advanced options
+- Generalized Estimating Equations
+
+**Discussion session III**
+- Have we already learned more from researching its data sources and planning a workflow? What?
+- Do you notice any errors or missing information? If you were peer reviewing this study or planning to reproduce it, what more would you want to know?
+- Have you developed any concerns about the study?
+
+**Discussion session IV**
+- Does the “spatial is special” phrase apply to pre-analysis plan registration?
+- Are there ways in which spatial data and spatial analysis require additional attention to detail and scrutiny if pre-analysis planning is to support enhanced replicability?
+
+
+## Part IV: Execute a Computational Notebook in RStudio
+
+### RStudio and R Markdown Overview
+- GUI for R
+- R Markdown computational notebook
+- Reading R
+- R Markdown practices
+
+### Execute R Markdown Computational Notebooks
+
+### Reproduction Study Result
+- Comparing GEE results
+- Reproduction report
+
+**Discussion session V**
+- Was this reproduction an exact success? Approximate success? Failure?
+- Why?
+
+**Discussion session VI**
+- Have we learned anything about Chakraborty’s study that we did not know based on the paper? What?
+- Can you imagine ways in which the reproduction study could be replicated, reanalyzed, or extended?
+
+**Discussion session VII**
+- Are there specific ways you can imagine benefitting from R&R practices into your ongoing and future scholarly activity?
+- Are there specific barriers to adopting R&R practices into your ongoing and future scholarly activity?
+
+**Discussion session VII**
+- If we can work out R&R in geography, can you envision ways in which geography could contribute to other sciences or to convergent / interdisciplinary research?
+- Interest in trying a reproduction or replication project in a course you are teaching?
+
+
+## Appreciation
