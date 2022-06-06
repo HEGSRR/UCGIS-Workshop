@@ -11,7 +11,8 @@ Assistants: Emily Zhou
 
 - [Abstract](Abstract.md)
 - [Welcome Email](Welcome.md) with instructions to prepare for the workshop.
-- [Slides](UCGIS-2022.pptx)
+- [Agenda / Outline](Agenda.md)
+- [Slides](UCGIS-2022.pptx) [PDF](UCGIS-2022.pdf)
 - [Technical Guide](Technical-Guide/Technical-Guide.md)
 - [HEGSRR-Template](https://github.com/hegsrr/HEGSRR-Template)
 - [RPr-Chakraborty-2021](https://github.com/hegsrr/RPr-Chakraborty-2021)
